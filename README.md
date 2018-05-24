@@ -1,12 +1,11 @@
-# Ultimate Vue.js Developers Course
+# GCE ITTP Team Two Vue.js Calendar
 
-Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
 
-### Project 3: Vue.js Calendar
+### Calendar structure and basic functionality based on Ultimate Vue.js Developers Course's Project 3: Vue.js Calendar
 
-#### Demo
+Original Calendar Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
 
-See the completed project here: [http://vuejs-calendar.vuejsdevelopers.com/](http://vuejs-calendar.vuejsdevelopers.com/)
+
 
 #### Pre-installation
 
